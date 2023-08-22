@@ -1,6 +1,6 @@
 ![logo](https://github.com/Neeraj-Kumar2004/Neeraj-Kumar2004/blob/main/impo.jpg)
-<h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
-<h3 align="center">A passionate Coder from India.</h3>
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=23&duration=4000&pause=350&color=FF6E04&background=10101000&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Neeraj+Kumar+!;welcome+%F0%9F%99%8F+to+my+Github+Profile+" alt="Typing SVG" /></a></h1>
 <img align="right"  width="400" alt="Coding" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 
@@ -9,9 +9,7 @@
 - 🌱 I’m currently learning **Java+Dsa**
 - ✨ I’m a BCA student at DCRUST, Sonipat, Haryana.
 
-- 📫 How to reach me **neerajkumar62061@gmail.com**
-
-- ⚡ Fun fact **I am funny.**
+- 📫 How to reach me 👉**neerajkumar62061@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
