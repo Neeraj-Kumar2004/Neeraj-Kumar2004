@@ -28,3 +28,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main # Use the main branch
+          git add .github/workflows/snake-contributions.yml
+git commit -m "Add snake contributions workflow"
+git push origin snake-contributions
