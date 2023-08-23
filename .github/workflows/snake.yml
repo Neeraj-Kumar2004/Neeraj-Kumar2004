@@ -17,7 +17,7 @@ jobs:
         id: snake-gif
         uses: Platane/snk@master
         with:
-          github_user_name: Neeraj-Kumar2004  # Replace with your GitHub username
+          github_user_name: Neeraj-Kumar2004
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
@@ -28,5 +28,5 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main  # Change to your main branch name if different
+          branch: main
           force: true
