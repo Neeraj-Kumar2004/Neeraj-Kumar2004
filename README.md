@@ -30,3 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj-kumar2004&" alt="neeraj-kumar2004" /></p>
 
+![Snake Contributions](https://github.com/Neeraj-Kumar2004/Neeraj-Kumar2004/blob/output/github-contribution-grid-snake.svg)
+
