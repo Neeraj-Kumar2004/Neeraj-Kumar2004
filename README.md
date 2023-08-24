@@ -36,8 +36,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 [![](https://visitcount.itsvg.in/api?id=Neeraj-Kumar2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<b>Watch 🐍Snake🐍 eating my Github Contribution</b>
 <p align="center">
   <img src="https://github.com/Neeraj-Kumar2004/Neeraj-Kumar2004/blob/main/github-contribution-grid-snake.svg"/>
 </p>
+<b>Be Focus🎯</b>
+
+ <p align="right" ><img src="https://github.com/Neeraj-Kumar2004/Neeraj-Kumar2004/blob/main/dart.png" width="20%"/> <img src="https://github.com/Neeraj-Kumar2004/Neeraj-Kumar2004/blob/main/a1.gif"/></p> 
 
